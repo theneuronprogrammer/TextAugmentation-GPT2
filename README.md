@@ -1,12 +1,6 @@
 # TextAugmentation-GPT2
-![GPT2 model size representation](https://github.com/prakhar21/TextAugmentation-GPT2/blob/master/gpt2-sizes.png)
 Fine-tuned pre-trained GPT2 for topic specific text generation. Such system can be used for Text Augmentation.
-
-## Getting Started
-1. git clone https://github.com/prakhar21/TextAugmentation-GPT2.git
-2. Move your data to __data/ dir__.
-
-_* Please refer to data/SMSSpamCollection to get the idea of file format._
+* Please refer to data/SMSSpamCollection to get the idea of file format._
 
 ## Tuning for own Corpus
 1. Assuming are done with Point 2 under __Getting Started__
